@@ -95,6 +95,11 @@ listaOrdenada.forEach(c => {
 
 const clientesOrdenados = ordenarClientes(listaOriginal);
 
+
+
+// Easter egg: Sleep To Dream - Fiona Apple
+
+
 //lista apenas de clientes (em ordem alfabetica tbm)
 clientesOrdenados.forEach(cliente => {
     console.log("- " + cliente.nome);
